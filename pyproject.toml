@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "lxm3_deploy"
+version = "0.0.1"
+description = "Simple LXM3-based workflow to deploy HPC jobs"
+authors = [{name="Daniel CH Tan", email="dtch1997@users.noreply.github.com"}]
+license = "MIT"
+readme = "README.md"
