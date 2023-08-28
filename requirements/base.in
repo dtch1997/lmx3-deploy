@@ -1,1 +1,3 @@
-lxm3 @ git+https://github.com/dtch1997/lxm3.git
+lxm3 @ git+https://github.com/ethanluoyc/lxm3.git
+absl-py
+ml_collections
